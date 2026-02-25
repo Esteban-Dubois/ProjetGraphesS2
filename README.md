@@ -3,8 +3,8 @@ Projet Graphes Semestre 2 BUT INFO
 
 # Membres du groupes : 
 
-- Erwan ERNY
-- Esteban DUBOIS
+- Erwan ERNY S2A2
+- Esteban DUBOIS S2A2
 
 # Projet :
 
