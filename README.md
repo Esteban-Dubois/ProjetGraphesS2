@@ -30,5 +30,6 @@ afin de trouver une station de départ et une station d'arrivée
 <img width="258" height="60" alt="image" src="https://github.com/user-attachments/assets/5a1e08c0-3759-483d-b379-fa0a7e231a46" />
 
 3) observer le chemin trouvé
+
    <img width="1664" height="992" alt="image" src="https://github.com/user-attachments/assets/8bf438fb-285b-4f72-8aa6-1879d8f73aa6" />
 
