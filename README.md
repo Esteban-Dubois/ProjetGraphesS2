@@ -25,6 +25,6 @@ Utiliser le graphe généré au lancement du code ou le fichier texte avec la li
 afin de trouver une station de départ et une station d'arrivée
 <img width="1424" height="727" alt="image" src="https://github.com/user-attachments/assets/96106b6e-287a-478e-9fcd-1a0e10a86982" />
 
-Renseigner la station d'arrivée et de départ dans le terminal \n
+Renseigner la station d'arrivée et de départ dans le terminal "\n"
 <img width="258" height="60" alt="image" src="https://github.com/user-attachments/assets/5a1e08c0-3759-483d-b379-fa0a7e231a46" />
 
