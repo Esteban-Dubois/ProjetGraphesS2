@@ -14,7 +14,7 @@ Création d'un graphe représentant les lignes de métro Tokyoïtes ainsi que le
 
 - Graphe non orientié, cela permet d'aller d'une station à une autre dans les deux sens possible
 - Graphe non pondéré, le graphe ne prend pas en compte la distance en temps et en kilomètre entre deux gares
-- 
+
 Théorie des graphes utilisée : Breadth-First Search (BFS).
 L'algorithme part d'une station de départ et explore toutes les stations à 1 arrêt de distance puis à 2 arrêts de distance
 et ce jusqu'à trouver le chemin le plus court pour aller jusqu'à la station cible
